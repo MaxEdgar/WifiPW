@@ -17,7 +17,7 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/yourusername/yourrepository.git</code></pre>
     <li>Navigate to the directory:</li>
-    <pre><code>cd yourrepository</code></pre>
+    <pre><code>cd WifiPW-main</code></pre>
     <li>Run the script:</li>
     <pre><code>python3 crack.py</code></pre>
     <li>The generated password list will be saved to <code>passwords.txt</code>.</li>
